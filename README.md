@@ -57,3 +57,9 @@ Featured in **Lenny's Newsletter**:
 | Jan 2025 | [**The AI Skill That Will Define Your PM Career in 2025**](https://www.youtube.com/watch?v=u8lEDw7pOkE) · Peter Yang |
 | Nov 2024 | [**Becoming an AI PM**](https://www.youtube.com/watch?v=E_rNotqs--I) · Lenny's Podcast |
 | 2025 | [**Evals Course Interview**](https://www.youtube.com/watch?v=XueTa4qrMpg) · Hamel Husain |
+
+---
+
+[X/Twitter](https://x.com/amankhan) · [LinkedIn](https://linkedin.com/in/amanberkeley) · [Subscribe](https://aiproductplaybook.com) · [amank.ai](https://amank.ai)
+
+aman@aiproductplaybook.com
