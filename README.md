@@ -23,7 +23,7 @@ Featured in **Lenny's Newsletter**:
 ## 💻 Open Source
 
 - **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 367 · A framework for building your own AI-powered personal operating system
-- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 38 · Quick setup guide for OpenClaw
+- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 39 · Quick setup guide for OpenClaw
 
 ## ✍️ Writing (AI Product Playbook)
 
@@ -39,6 +39,8 @@ Featured in **Lenny's Newsletter**:
 | Jun 2025 | [**How AI PMs and AI Engineers Collaborate on Evals**](https://amankhan1.substack.com/p/how-ai-pms-and-ai-engineers-collaborate) |
 | Jun 2025 | [**The Five Skills I Actually Use Every Day as an AI PM**](https://amankhan1.substack.com/p/the-five-skills-i-actually-use-every) |
 | Apr 2025 | [**Beyond Vibe Checks: A PM's Complete Guide to Evals**](https://amankhan1.substack.com/p/beyond-vibe-checks-a-pms-complete) |
+| Apr 2025 | [**⚡️Mastering Evals as an AI PM (Session Recap)**](https://amankhan1.substack.com/p/mastering-evals-as-an-ai-pm-session) |
+| Dec 2024 | [**How to Use AI for Prototyping as a PM**](https://amankhan1.substack.com/p/how-to-use-ai-for-prototyping-as) |
 
 ➡️ [**See all posts on AI Product Playbook**](https://amankhan1.substack.com/archive)
 
