@@ -62,4 +62,4 @@ Featured in **Lenny's Newsletter**:
 
 [X/Twitter](https://x.com/amankhan) · [LinkedIn](https://linkedin.com/in/amanberkeley) · [Subscribe](https://aiproductplaybook.com) · [amank.ai](https://amank.ai)
 
-firstname@aiproductplaybook.com
+<firstname>@aiproductplaybook.com
