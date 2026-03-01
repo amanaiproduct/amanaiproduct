@@ -18,7 +18,29 @@ Featured in **Lenny's Newsletter**:
 - [Claude Code for Product Managers](https://maven.com/aman-khan/claude-code-for-product-managers) · Maven (w/ Eric Xiao) · ⭐ 5.0/5
 - [Build AI Product Sense](https://maven.com/aman-khan/build-ai-product-sense) · Maven (w/ Tal Raviv) · ⭐ 4.8/5
 - [Prototype to Production: The AI PM Playbook](https://maven.com/aman-khan/thriving-as-an-ai-pm) · Maven · ⭐ 4.8/5
-- [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/) · DeepLearning.AI (w/ John Gilhuly)
+- [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/) · DeepLearning.AI (w/ Andrew Ng and John Gilhuly)
+
+## 💻 Open Source
+
+- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 367 · A framework for building your own AI-powered personal operating system
+- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 38 · Quick setup guide for OpenClaw
+
+## ✍️ Writing (AI Product Playbook)
+
+| Date | Post |
+| --- | --- |
+| Feb 2026 | [**How to Make Your OpenClaw Agent Useful and Secure**](https://amankhan1.substack.com/p/how-to-make-your-openclaw-agent-useful) |
+| Feb 2026 | [**How Carl Set Up His Personal OS in Claude Code**](https://amankhan1.substack.com/p/how-carl-set-up-his-personal-os-in) |
+| Jan 2026 | [**How to Get Clawdbot Set Up in an Afternoon**](https://amankhan1.substack.com/p/how-to-get-clawdbotmoltbotopenclaw) |
+| Jan 2026 | [**Cursor for Product Managers**](https://amankhan1.substack.com/p/cursor-for-product-managers) (w/ Eric Xiao) |
+| Nov 2025 | [**Building AI Product Sense with a Personal OS**](https://amankhan1.substack.com/p/building-ai-product-sense-with-a) |
+| Aug 2025 | [**Beginner's Guide to AI Evals (Walkthrough)**](https://amankhan1.substack.com/p/beginners-guide-to-ai-evals-walkthrough) |
+| Jul 2025 | [**How AI Prototyping Tools Actually Work: A Deep Dive into Bolt's Architecture**](https://amankhan1.substack.com/p/how-ai-prototyping-tools-actually) |
+| Jun 2025 | [**How AI PMs and AI Engineers Collaborate on Evals**](https://amankhan1.substack.com/p/how-ai-pms-and-ai-engineers-collaborate) |
+| Jun 2025 | [**The Five Skills I Actually Use Every Day as an AI PM**](https://amankhan1.substack.com/p/the-five-skills-i-actually-use-every) |
+| Apr 2025 | [**Beyond Vibe Checks: A PM's Complete Guide to Evals**](https://amankhan1.substack.com/p/beyond-vibe-checks-a-pms-complete) |
+
+➡️ [**See all posts on AI Product Playbook**](https://amankhan1.substack.com/archive)
 
 ## 🎙️ Talks & Podcasts
 
@@ -35,25 +57,3 @@ Featured in **Lenny's Newsletter**:
 | Jan 2025 | [**The AI Skill That Will Define Your PM Career in 2025**](https://www.youtube.com/watch?v=u8lEDw7pOkE) · Peter Yang |
 | Nov 2024 | [**Becoming an AI PM**](https://www.youtube.com/watch?v=E_rNotqs--I) · Lenny's Podcast |
 | 2025 | [**Evals Course Interview**](https://www.youtube.com/watch?v=XueTa4qrMpg) · Hamel Husain |
-
-## ✍️ Writing (AI Product Playbook)
-
-| Date | Post |
-| --- | --- |
-| Feb 2026 | [**How to Make Your OpenClaw Agent Useful and Secure**](https://amankhan1.substack.com/p/how-to-make-your-openclaw-agent-useful) |
-| Feb 2026 | [**How Carl Set Up His Personal OS in Claude Code**](https://amankhan1.substack.com/p/how-carl-set-up-his-personal-os-in) |
-| Jan 2026 | [**How to Get Clawdbot Set Up in an Afternoon**](https://amankhan1.substack.com/p/how-to-get-clawdbotmoltbotopenclaw) |
-| Jan 2026 | [**Cursor for Product Managers**](https://amankhan1.substack.com/p/cursor-for-product-managers) (w/ Eric Xiao) |
-| Nov 2025 | [**Building AI Product Sense with a Personal OS**](https://amankhan1.substack.com/p/building-ai-product-sense-with-a) |
-| Aug 2025 | [**Beginner's Guide to AI Evals (Walkthrough)**](https://amankhan1.substack.com/p/beginners-guide-to-ai-evals-walkthrough) |
-| Jul 2025 | [**How AI Prototyping Tools Actually Work: A Deep Dive into Bolt's Architecture**](https://amankhan1.substack.com/p/how-ai-prototyping-tools-actually) |
-| Jun 2025 | [**How AI PMs and AI Engineers Collaborate on Evals**](https://amankhan1.substack.com/p/how-ai-pms-and-ai-engineers-collaborate) |
-| Jun 2025 | [**The Five Skills I Actually Use Every Day as an AI PM**](https://amankhan1.substack.com/p/the-five-skills-i-actually-use-every) |
-| Apr 2025 | [**Mastering Evals as an AI PM (Session Recap)**](https://amankhan1.substack.com/p/mastering-evals-as-an-ai-pm-session) |
-| Apr 2025 | [**Beyond Vibe Checks: A PM's Complete Guide to Evals**](https://amankhan1.substack.com/p/beyond-vibe-checks-a-pms-complete) |
-| Dec 2024 | [**How to Use AI for Prototyping as a PM**](https://amankhan1.substack.com/p/how-to-use-ai-for-prototyping-as) |
-
-## 💻 Open Source
-
-- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 367 · A framework for building your own AI-powered personal operating system
-- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 38 · Quick setup guide for OpenClaw
