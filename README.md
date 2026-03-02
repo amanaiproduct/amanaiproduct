@@ -50,6 +50,7 @@ Featured in **Lenny's Newsletter**:
 | --- | --- |
 | Nov 2024 | [**Becoming an AI PM**](https://www.youtube.com/watch?v=E_rNotqs--I) · Lenny's Podcast |
 | Jan 2025 | [**The AI Skill That Will Define Your PM Career in 2025**](https://www.youtube.com/watch?v=u8lEDw7pOkE) · Peter Yang |
+| Jun 2025 | [**Shipping AI That Works: An Evaluation Framework for PMs**](https://www.youtube.com/watch?v=2HNSG990Ew8) · AI Engineer World's Fair |
 | 2025 | [**Evals Course Interview**](https://www.youtube.com/watch?v=XueTa4qrMpg) · Hamel Husain |
 | Feb 2025 | [**DeepLearning.AI Course Launch**](https://www.youtube.com/watch?v=GzxdGpFhn04) |
 | Jun 2025 | [**Product Growth Podcast**](https://www.news.aakashg.com/p/aman-khan-podcast) · Aakash Gupta |
