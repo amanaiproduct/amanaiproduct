@@ -22,13 +22,14 @@ Featured in **Lenny's Newsletter**:
 
 ## 💻 Open Source
 
-- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 370 · A framework for building your own AI-powered personal operating system
-- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 39 · Quick setup guide for OpenClaw
+- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 373 · A framework for building your own AI-powered personal operating system
+- **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 40 · Quick setup guide for OpenClaw
 
 ## ✍️ Writing (AI Product Playbook)
 
 | Date | Post |
 | --- | --- |
+| Mar 2026 | [**Every PM Should Be Building Skills**](https://amankhan1.substack.com/p/every-pm-should-be-building-skills) |
 | Feb 2026 | [**How to Make Your OpenClaw Agent Useful and Secure**](https://amankhan1.substack.com/p/how-to-make-your-openclaw-agent-useful) |
 | Feb 2026 | [**How Carl Set Up His Personal OS in Claude Code**](https://amankhan1.substack.com/p/how-carl-set-up-his-personal-os-in) |
 | Jan 2026 | [**How to Get Clawdbot Set Up in an Afternoon**](https://amankhan1.substack.com/p/how-to-get-clawdbotmoltbotopenclaw) |
