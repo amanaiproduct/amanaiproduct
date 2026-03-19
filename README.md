@@ -30,6 +30,7 @@ Featured in **Lenny's Newsletter**:
 
 | Date | Post |
 | --- | --- |
+| Mar 2026 | [**I'm Writing an O'Reilly Book**](https://amankhan1.substack.com/p/im-writing-an-oreilly-book) |
 | Mar 2026 | [**Every PM Should Be Building Skills**](https://amankhan1.substack.com/p/every-pm-should-be-building-skills) |
 | Feb 2026 | [**How to Make Your OpenClaw Agent Useful and Secure**](https://amankhan1.substack.com/p/how-to-make-your-openclaw-agent-useful) |
 | Feb 2026 | [**How Carl Set Up His Personal OS in Claude Code**](https://amankhan1.substack.com/p/how-carl-set-up-his-personal-os-in) |
