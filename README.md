@@ -22,14 +22,15 @@ Featured in **Lenny's Newsletter**:
 
 ## 💻 Open Source
 
-- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 428 · A framework for building your own AI-powered personal operating system
-- **[amans-skills](https://github.com/amanaiproduct/amans-skills)** ⭐ 49 · My Claude Code setup: plugins, skills, and config
+- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 430 · A framework for building your own AI-powered personal operating system
+- **[amans-skills](https://github.com/amanaiproduct/amans-skills)** ⭐ 50 · My Claude Code setup: plugins, skills, and config
 - **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 81 · Quick setup guide for OpenClaw
 
 ## ✍️ Writing (AI Product Playbook)
 
 | Date | Post |
 | --- | --- |
+| Apr 2026 | [**Most PMs Can't Touch Production. Gus Built a YC Startup to Change That.**](https://amankhan1.substack.com/p/most-pms-cant-touch-production-gus) |
 | Mar 2026 | [**I'm Writing an O'Reilly Book**](https://amankhan1.substack.com/p/im-writing-an-oreilly-book) |
 | Mar 2026 | [**Every PM Should Be Building Skills**](https://amankhan1.substack.com/p/every-pm-should-be-building-skills) |
 | Feb 2026 | [**How to Make Your OpenClaw Agent Useful and Secure**](https://amankhan1.substack.com/p/how-to-make-your-openclaw-agent-useful) |
