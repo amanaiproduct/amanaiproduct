@@ -22,7 +22,7 @@ Featured in **Lenny's Newsletter**:
 
 ## 💻 Open Source
 
-- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 512 · A framework for building your own AI-powered personal operating system
+- **[personal-os](https://github.com/amanaiproduct/personal-os)** ⭐ 528 · A framework for building your own AI-powered personal operating system
 - **[amans-skills](https://github.com/amanaiproduct/amans-skills)** ⭐ 74 · My Claude Code setup: plugins, skills, and config
 - **[openclaw-setup](https://github.com/amanaiproduct/openclaw-setup)** ⭐ 89 · Quick setup guide for OpenClaw
 
